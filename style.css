@@ -34,3 +34,20 @@ html {
   border: 1px solid #484848;
   height: 100%;
 }
+
+.header {
+  display: flex;
+}
+
+.header-title {
+  flex: 1;
+}
+
+.header-btn {
+  font-size: 1.8rem;
+  font-family: "Bungee", "sans-serif";
+  padding: 24px;
+  background: unset;
+  border: unset;
+  outline: unset;
+}
